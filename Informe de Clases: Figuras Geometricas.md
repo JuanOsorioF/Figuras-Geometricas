@@ -17,7 +17,9 @@ La clase Circulo es una clase modelo para representar un círculo. Se encarga de
 La clase Circulo tiene los siguientes métodos:
 
 public Circulo(double radio): constructor que recibe el valor del radio del círculo.
+
 public double calcularArea(): devuelve el valor del área del círculo.
+
 public double calcularPerimetro(): devuelve el valor del perímetro del círculo.
 
 Cuadrado
